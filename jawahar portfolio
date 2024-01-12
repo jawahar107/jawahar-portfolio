@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>V.Jawahar - UX/UI Designer</title>
+</head>
+
+<body>
+  <body style="background-color:powderblue;"></body>
+    <header>
+        <h1>V. Jawahar</h1>
+        <p>Aspiring UX/UI Designer</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#education_detail">Education Details</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#projects">Project</a></li>
+            <li><a href="#achievements">Achievements and Awards</a></li>
+
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p> To obtain a challenging position that fully utilizes my skills and provides me with suitable opportunities to grow my technical and
+ communication skills which would help me as a fresher to grow while working towards the organizational goals.</p>
+    </section>
+     <section id="education_detail">
+        <h2>Education Details</h2>
+        <ul>
+            <li> 2020-2024  Saveetha Engineering College
+ B. E. Computer Science and Engineering
+ CGPA-7.69</li>
+            <li>2019-2020  Kendriya Vidyalaya school 12th
+ Percentage-75
+ </li>
+            <li> 2016-2017  Kendriya Vidyalaya
+ 10th
+ Percentage-80</li>
+            
+        </ul></section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>C programming</li>
+            <li>Java</li>
+            <li>Html</li>
+            <li>CSS</li>
+            <li>AutoCad</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        
+
+        <div class="project">
+            <h3>Project 1<h3>
+            <h4>car parking space detection using CNN</h4>
+            <p>The goal is to find the free space for parking with only the cameras not with sensors completed on 2023. </p>
+        </div>
+<div class="project">
+            <h3>Project 2</h3>
+            <h4>Mediguide chatbot Using Machine Learning</h4>
+            <p>The goal is disease prediction this project is to determine a patient's disease and they will be guided through the chat bot for the symptoms they having
+  with the help of machine learning algorithms completed on 2023.</p>
+        </div>
+
+    </section>
+    <section id="certificates">
+        <h2>Workshop Certificates</h2>
+        <ul>
+            <li>CyberSecurity and Ethical Hacking.
+</li>
+            <li>3D digital Game art and design.</li>
+           
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email:jawahar9238@gmail.com</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/jawahar-v-657030201/" target="_blank">Your LinkedIn</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 V. JAWAHAR</p>
+    </footer>
+</body>
+
+
+</html>
